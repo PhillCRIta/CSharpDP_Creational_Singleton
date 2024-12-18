@@ -3,7 +3,7 @@ Those code examples about design pattern have the purpose of personal use, to ea
 
 The major source of the examples is a Youtube channel of [DoableDanny](https://www.youtube.com/@doabledanny/videos), he's a very good developer. I suggest to all to buy 📒his book about design pattern 📒 , it's very clear.
 
-# Singleton patter
+# Singleton pattern
 Singleton pattern is used for provide a uniqueand global point of access to a instance. \
 In the example case we instantiate a only oneclass to connect to database and reuse thatclass many times as needed.\
 The singleton pattern ensure that the data saved into it remain the same in all app. \
